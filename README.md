@@ -5,7 +5,7 @@ A Book Store Project That Uses Gutendex API
 You Can:
 
 - Search For Books
-- Paginate
+- Go to Prev and Next Pages
 
 ## Built With
 
