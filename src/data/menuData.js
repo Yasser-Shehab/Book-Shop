@@ -12,9 +12,4 @@ export const data = [
     label: "Category",
     value: "category",
   },
-
-  {
-    label: "Find a store",
-    value: "findastore",
-  },
 ];

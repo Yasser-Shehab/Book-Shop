@@ -1,5 +1,5 @@
 import React from "react";
-import { Tabs, TabsHeader, TabsBody, Tab, TabPanel } from "@material-tailwind/react";
+import { Tabs, TabsHeader, Tab } from "@material-tailwind/react";
 import { data } from "../../data/menuData";
 
 export function NavigationMenu() {

@@ -6,8 +6,8 @@ function Pagination({
   prevPage,
   newPageHandle,
 }: {
-  nextPage: any;
-  prevPage: any;
+  nextPage: string | null;
+  prevPage: string | null;
   newPageHandle: any;
 }) {
   return (
