@@ -2,6 +2,10 @@
 
 A Book Store Project That Uses Gutendex API
 
+You Can:
+1- Search For Books
+2- Paginate
+
 ## Available Scripts
 
 In the project directory, you can run:
