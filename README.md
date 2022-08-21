@@ -3,8 +3,14 @@
 A Book Store Project That Uses Gutendex API
 
 You Can:
-1- Search For Books
-2- Paginate
+
+- Search For Books
+- Paginate
+
+## Built With
+
+- [TawilwindCss](http://www.dropwizard.io/1.0.2/docs/) - For Utility Classes
+- [Material Tailwind](https://www.material-tailwind.com/) - Component Library
 
 ## Available Scripts
 
