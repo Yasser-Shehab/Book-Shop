@@ -11,6 +11,7 @@ You Can:
 
 - [TawilwindCss](http://www.dropwizard.io/1.0.2/docs/) - For Utility Classes
 - [Material Tailwind](https://www.material-tailwind.com/) - Component Library
+- [Gutendex](http://gutendex.com/) - Books API
 
 ## Available Scripts
 
